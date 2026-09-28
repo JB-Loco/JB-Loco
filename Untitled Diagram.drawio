@@ -25,7 +25,7 @@
         <mxCell id="J1htCpYNY8k9mbk2M-wb-6" parent="g1bK_DfN8DBpv9KNQfgA-1" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=20;fillColor=#fff2cc;strokeColor=#d6b656;" value="Client PC" vertex="1">
           <mxGeometry height="70" width="120" x="452" y="170" as="geometry" />
         </mxCell>
-        <mxCell id="J1htCpYNY8k9mbk2M-wb-7" parent="g1bK_DfN8DBpv9KNQfgA-1" style="text;html=1;whiteSpace=wrap;strokeColor=#9673a6;fillColor=#e1d5e7;align=center;verticalAlign=middle;rounded=0;labelBorderColor=none;" value="GATA Camera" vertex="1">
+        <mxCell id="J1htCpYNY8k9mbk2M-wb-7" parent="g1bK_DfN8DBpv9KNQfgA-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=#e1d5e7;align=center;verticalAlign=middle;rounded=0;labelBorderColor=none;" value="GATA Camera" vertex="1">
           <mxGeometry height="30" width="60" y="127.5" as="geometry" />
         </mxCell>
         <mxCell id="J1htCpYNY8k9mbk2M-wb-10" edge="1" parent="g1bK_DfN8DBpv9KNQfgA-1" style="endArrow=none;html=1;rounded=0;strokeColor=light-dark(#000000,#000000);" value="">
