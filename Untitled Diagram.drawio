@@ -7,7 +7,7 @@
         <mxCell id="g1bK_DfN8DBpv9KNQfgA-1" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="390" width="572" x="48" y="38" as="geometry" />
         </mxCell>
-        <mxCell id="J1htCpYNY8k9mbk2M-wb-2" parent="g1bK_DfN8DBpv9KNQfgA-1" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="TEM PC" vertex="1">
+        <mxCell id="J1htCpYNY8k9mbk2M-wb-2" parent="g1bK_DfN8DBpv9KNQfgA-1" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#d5e8d4;strokeColor=#82b366;" value="TEM PC" vertex="1">
           <mxGeometry height="70" width="120" x="162" y="320" as="geometry" />
         </mxCell>
         <mxCell id="J1htCpYNY8k9mbk2M-wb-3" parent="g1bK_DfN8DBpv9KNQfgA-1" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="GATAN PC" vertex="1">
